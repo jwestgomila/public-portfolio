@@ -1,0 +1,127 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{sudoku}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7c14efa66ac0724c84b274c8afcb5212}{%
+           family={Zambon},
+           familyi={Z\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Lulu Com}%
+      }
+      \strng{namehash}{7c14efa66ac0724c84b274c8afcb5212}
+      \strng{fullhash}{7c14efa66ac0724c84b274c8afcb5212}
+      \strng{bibnamehash}{7c14efa66ac0724c84b274c8afcb5212}
+      \strng{authorbibnamehash}{7c14efa66ac0724c84b274c8afcb5212}
+      \strng{authornamehash}{7c14efa66ac0724c84b274c8afcb5212}
+      \strng{authorfullhash}{7c14efa66ac0724c84b274c8afcb5212}
+      \field{labelalpha}{Zambon2011}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781447736936}
+      \field{title}{Sudoku Explained}
+      \field{year}{2011}
+    \endentry
+    \entry{norvig}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=143fa183327d9fcd9de18eec99d6ca97}{%
+           family={Russell},
+           familyi={R\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5de798d5fa3c0236c0478134cd23f52a}{%
+           family={Norvig},
+           familyi={N\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Education Limited}%
+      }
+      \strng{namehash}{b280605b721b4ebcba5395298499f924}
+      \strng{fullhash}{b280605b721b4ebcba5395298499f924}
+      \strng{bibnamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authorbibnamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authornamehash}{b280605b721b4ebcba5395298499f924}
+      \strng{authorfullhash}{b280605b721b4ebcba5395298499f924}
+      \field{labelalpha}{RussellNorvig2022}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{1-292-40113-3}
+      \field{title}{Artificial Intelligence: A modern approach}
+      \field{year}{2022}
+    \endentry
+    \entry{edi}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a50a6095ddfe59acf81f8de5cd93e8e9}{%
+           prefix={of},
+           prefixi={o\bibinitperiod},
+           prefixun=0,
+           family={Edinburgh},
+           familyi={E\bibinitperiod},
+           given={The\bibnamedelima University},
+           giveni={T\bibinitperiod\bibinitdelim U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a50a6095ddfe59acf81f8de5cd93e8e9}
+      \strng{fullhash}{a50a6095ddfe59acf81f8de5cd93e8e9}
+      \strng{bibnamehash}{a50a6095ddfe59acf81f8de5cd93e8e9}
+      \strng{authorbibnamehash}{a50a6095ddfe59acf81f8de5cd93e8e9}
+      \strng{authornamehash}{a50a6095ddfe59acf81f8de5cd93e8e9}
+      \strng{authorfullhash}{a50a6095ddfe59acf81f8de5cd93e8e9}
+      \field{labelalpha}{Edinburgh2024}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sudoku modelling and solution}
+      \field{urlday}{25}
+      \field{urlmonth}{1}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.maths.ed.ac.uk/hall/Sudoku.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.maths.ed.ac.uk/hall/Sudoku.pdf
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
