@@ -1,4 +1,4 @@
-This Enigma machine was made for a University of Bath Artificial Intelligence MSc assignment and solved various provided Enigma codes. The end mark for this work was 80%.
+This Enigma machine was made for a University of Bath Artificial Intelligence MSc assignment and solved various provided Enigma codes. I scored 80% overall, with marks attributed to different parts of the implementation and code breaking.
 
 ### Index of Coincidence
 

@@ -1,1 +1,1 @@
-This Sudoku solver was made as part of a University of Bath Artificial Intelligence MSc assignment. More details about solver performance can be found in ./report.pdf.
+This Sudoku solver was made as part of a University of Bath Artificial Intelligence MSc assignment. I scored 76% overall with 80% of the mark determined by the implementation and 20% by the report. The solver was accurate, but was not performant enough to solve the most difficult puzzles in challenging time limits. More details about solver performance can be found in ./report.pdf.
