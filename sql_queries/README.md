@@ -1,0 +1,1 @@
+These SQL queries were written as part of a University of Bath Artificial Intelligence MSc assignment, and I scored 100%. 

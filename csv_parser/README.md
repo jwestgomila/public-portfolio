@@ -1,4 +1,4 @@
-This CSV parser was created as part of a University of Bath Artificial Intelligence MSc assignment. Example parsed output of the './test-indoor_temperature.csv' files can be found below.
+This CSV parser was created as part of a University of Bath Artificial Intelligence MSc assignment and I scored 85%. Example parsed output of the './test-indoor_temperature.csv' files can be found below.
 
 ```
 Failed to convert '1235.78' in line '21' to majority data type '<class 'datetime.datetime'>'
