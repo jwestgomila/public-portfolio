@@ -1,0 +1,1 @@
+We were tasked with creating a genetic algorithm to solve the 8-queens problem, and various self-inspired extensions to it. This constituted 50% of the Further Artificial Intelligence module, and included a 3 page report and a Python notebook. Marks TBC.

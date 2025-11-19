@@ -1,0 +1,1 @@
+We were tasked with writing about any artificial intelligence technology in the context of any industry. I chose to analyse the application of large language models to software engineering, in particular considering novel applications, benefits and risks of the technology. This constituted 50% of the Humans and Intelligent Machines module, and I scored 75%.
