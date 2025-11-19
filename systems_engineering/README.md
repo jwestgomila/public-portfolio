@@ -1,0 +1,1 @@
+Both assignments were for the Artificial Intelligence Systems Engineering module, with the system goals report worth 30% of the module and the full system design and discussion worth 70%. I scored 73% on the project preparation report, and marks are TBC on the larger piece.
